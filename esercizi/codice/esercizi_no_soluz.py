@@ -5,7 +5,7 @@ import pandas as pd
 ## Soluzione:
 print("***ESERCIZIO 1***")
 
-df = pd.read_csv("../dati/SomeMusicAlbum.csv")
+df = pd.read_csv("/dati/SomeMusicAlbum.csv")
 print(df.head(3))
 print("*****************"+"\n")    
  
